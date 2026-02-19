@@ -87,7 +87,7 @@ const HowItWorks = () => {
                 className="rounded-xl shadow-lg border"
               />
 
-              <img src="/assets/icons/arrow1.svg" className="absolute -z-1 -right-[70px] top-0" alt="" aria-hidden="true" />
+              {/* <img src="/assets/icons/arrow1.svg" className="absolute -z-1 -right-[70px] top-0" alt="" aria-hidden="true" /> */}
             </div>
           ))}
 
